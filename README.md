@@ -1,4 +1,4 @@
-Ce tp est un tp réposant sur du PHP , SQL et HTML.
+Ce tp est un tp reposant sur du PHP , SQL et HTML.
 
 Tout les fichiers sont des bases de données que l'on peut modifier à l'aide de form HTML fait en ligne.
 
