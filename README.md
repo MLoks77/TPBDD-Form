@@ -1,6 +1,6 @@
-Ce tp est un tp reposant sur du PHP , SQL et HTML.
+Ce repository regroupe des tp reposant sur du PHP , SQL et HTML.
 
-Tout les fichiers sont des bases de données que l'on peut modifier à l'aide de form HTML fait en ligne.
+Tout les fichiers sont des bases de données que l'on peut modifier à l'aide de form HTML, CSS et PHP fait en ligne.
 
 Les bases de données sont host sur myphpadmin avec XAMPP, toute les consignes sont dans le TP 1 dnas TPCONNEXION1
 
