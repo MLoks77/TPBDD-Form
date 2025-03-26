@@ -242,3 +242,20 @@ OU
 require "fonction.php";
 // require va arrêter le script s'il ne trouve pas le fichier contrairement à include 
 
+<h1> TP connexion N3 </h1>
+
+utilisez **h__pital** et renommez le **hôpital**
+
+Exo : Gestion des Patients dans un Hôpital avec PHP et MySQL
+Fichier connexion.php (Connexion à la base de données)
+Ce fichier contient la logique de connexion à la base de données MySQL.
+
+![image](https://github.com/user-attachments/assets/dca425cc-0ca2-4021-a878-dad0238d8bc8)
+
+Fichier ajouter_patient.html (Formulaire pour ajouter un patient) Ce fichier contient le formulaire HTML permettant à l'utilisateur d'ajouter un patient. 
+
+![image](https://github.com/user-attachments/assets/346c0481-3594-4cef-81c9-0aaed0b35d4e)
+
+Fichier traitement_patient.php (Traitement de l'ajout d'un patient) Ce fichier reçoit les données du formulaire et les insère dans la table Patient. 
+
+![image](https://github.com/user-attachments/assets/09026455-3da8-4ead-9d43-80cfeb69f3cf)
