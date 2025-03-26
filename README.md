@@ -244,7 +244,7 @@ require "fonction.php";
 
 <h1> TP connexion N3 </h1>
 
-utilisez **h__pital** et renommez le **hôpital**
+importez **hôpital** dans votre base SQL
 
 Exo : Gestion des Patients dans un Hôpital avec PHP et MySQL
 Fichier connexion.php (Connexion à la base de données)
